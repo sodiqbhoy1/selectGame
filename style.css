@@ -7,5 +7,7 @@ button {
 }
 
 button.selected {
-    background-color: lightblue;
+    background-color: #02021f;
+    color: #fff;
+    border-radius: .5rem;
 }
